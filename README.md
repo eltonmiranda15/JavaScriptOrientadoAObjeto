@@ -4,5 +4,8 @@
   </p>
 
 <h1> Dependências </h1>
-<ul> Efetuar npm install no server e client </ul>
-<ul> Entrar na pasta server pelo terminal e executar npm start para iniciar servidor na porta :3000 </ul>
+<ul>
+  <li>Efetuar npm install no server e client </li> 
+  <li>Entrar na pasta server pelo terminal e executar npm start para iniciar servidor na porta :3000 </li>
+</ul>
+
